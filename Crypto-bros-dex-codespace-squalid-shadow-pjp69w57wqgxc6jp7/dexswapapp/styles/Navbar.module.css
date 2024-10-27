@@ -1,0 +1,14 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+    background-color: #191B1F;
+  }
+  
+  .title {
+    color: #00FFFF;
+    font-size: 24px;
+    font-weight: bold;
+  }
